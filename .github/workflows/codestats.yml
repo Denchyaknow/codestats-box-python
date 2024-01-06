@@ -1,4 +1,4 @@
-name: Update gist with Code::Stats stats
+name: Update gist with Code::Stats
 on:
   push:
     branches:
